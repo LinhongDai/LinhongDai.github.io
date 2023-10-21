@@ -1,0 +1,21 @@
+personals:
+  - title: "Birthday in SF"
+    thumbnail: "assets/profile-pics/birthday.jpg"
+    selected: y
+
+  - title: "Falling Water"
+    thumbnail: "assets/profile-pics/falling_water.jpg"
+    selected: y
+
+  - title: "Hiking"
+    thumbnail: "assets/profile-pics/hiking.jpg"
+    selected: y
+
+  - title: "Reading Manga"
+    thumbnail: "assets/profile-pics/manga.jpg"
+    selected: n
+
+  - title: "Beyonce"
+    thumbnail: "assets/profile-pics/beyonce.jpg"
+    selected: n
+    

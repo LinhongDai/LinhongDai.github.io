@@ -1,0 +1,19 @@
+experiences:
+
+- place: "Northeastern"
+  time: "2021 - now"
+  title: "Student"
+  subtitle: "M.Sc.Student"
+  category: "school"
+
+- place: "AwanTunai"
+  time: "Summer 2023"
+  title: "Software Engineer - Northeastern University Experience Expo"
+  subtitle: "Data Science"
+  category: "work"
+
+- place: "Northeastern"
+  time: "Summer 2023 - now"
+  title: "Teaching Assistant"
+  subtitle: "Web Develepment"
+  category: "work"
