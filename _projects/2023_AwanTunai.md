@@ -19,5 +19,5 @@ second-level product categorization accuracy from 75% to 91%.
 
 
 
-**Short video describing the work. Recorded for KDD'17.** <br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yiKJCgLE4" frameborder="0" allowfullscreen></iframe>
+**Short video describing the work.** <br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1mrE9ExhXA8" frameborder="0" allowfullscreen></iframe>
